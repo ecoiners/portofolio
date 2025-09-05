@@ -33,6 +33,11 @@ export default {
           12: "#2E2A41",
           13: "#6C7275",
         },
+				gold: {
+          1: "#FFD369",  // emas terang
+          2: "#E6B63F", // emas utama
+          3: "#B8832F",   // emas gelap
+        },
       },
       fontFamily: {
         sans: ["var(--font-sora)", ...fontFamily.sans],

@@ -1,6 +1,9 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
+import ButtonGradient from "./assets/svg/ButtonGradient";
+//import Button from "./components/Button"
+
 const App = () => {
 	
 	return (
@@ -10,6 +13,8 @@ const App = () => {
 				
 				<Footer />
 			</div>
+			
+			<ButtonGradient />
 		</>
 	);
 };
