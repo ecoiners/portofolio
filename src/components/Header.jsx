@@ -1,4 +1,4 @@
-import {aurion} from "../assets";
+import {aurion} from "../assets/aurion.svg";
 
 export default function Header() {
 	
